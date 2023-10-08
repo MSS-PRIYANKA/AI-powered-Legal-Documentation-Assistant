@@ -1,0 +1,1 @@
+# AI-powered-Legal-Documentation-Assistant
