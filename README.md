@@ -8,5 +8,19 @@ The AI-powered Legal Documentation Assistant is designed to simplify the often c
 Document Summarization: The system provides document summarization capabilities, allowing users to quickly understand the key points of complex legal documents.
 ### Document Generation
 Customized Document Generation: Users can input their specific legal requirements, and the system generates user-friendly, legally compliant documents tailored to their needs.
-### Legal Compliance Check
-Compliance Assurance: The system checks generated documents for legal compliance, helping users avoid potential legal issues.
+
+
+### Results
+
+#### User Interface
+
+![image](https://github.com/MSS-PRIYANKA/AI-powered-Legal-Documentation-Assistant/assets/95180619/d1ff98f1-40d8-4637-a6e6-4ca6e7da2780)
+
+#### Document Summarization
+
+![image](https://github.com/MSS-PRIYANKA/AI-powered-Legal-Documentation-Assistant/assets/95180619/770ad752-f529-4075-ba33-56f7b007ddf1)
+
+#### Document Generation
+
+![image](https://github.com/MSS-PRIYANKA/AI-powered-Legal-Documentation-Assistant/assets/95180619/d768343a-fdea-4da8-8493-a6794e63756f)
+
